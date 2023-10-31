@@ -1,0 +1,2 @@
+# Api-CRUD-PYTHON-USERS
+Nesse projeto, criei uma API para cadastro de usuários em um servidor local. Através desta interface, eu implementei as operações CRUD (Create, Read, Update, Delete) para gerenciar usuários. Além disso, utilizei a linguagem SQL para realizar as principais operações e usei o MySQL como banco de dados para fazer a integração com o serviço. Ademais, empreguei o Flask Framework para criar a estrutura do servidor e o Postman para realizar requisições à API e executar as operações de CRUD.

@@ -20,6 +20,3 @@ Nesse projeto, criei uma API para cadastro de usuários em um servidor local. At
 ![5](https://github.com/PauloTelless/Api-CRUD-PYTHON-USERS/assets/126625776/44783a6c-a9f6-4c05-b10e-76f90337b86e)
 
 ![9](https://github.com/PauloTelless/Api-CRUD-PYTHON-USERS/assets/126625776/4796fd1c-9e30-4786-8eae-f8c52a43ade7)
-
-Vídeo para demonstração:
-Uploading 2023-10-31 11-37-29 (online-video-cutter.com).mp4…
